@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - turn
+  - collider
+  - passage
+  - DialogueManager
+  - bg1
+  - bg2
+  - bg3
+  - bg4
+  - area
+  - areaPlayer
+  - 1
+  - Hub
+  - 2
+  - 3
+  - Pass1
+  - Pass2
+  - Pass3
+  - triggerDetention
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Collider
+  - area
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3764215497
+    locked: 0
+  - name: Player
+    uniqueID: 1721896453
+    locked: 0
+  - name: Enemy
+    uniqueID: 4063831665
+    locked: 0
+  - name: area
+    uniqueID: 38555209
+    locked: 0

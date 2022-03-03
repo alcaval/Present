@@ -144,7 +144,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1563019090911296243, guid: e6762a65b929e4c4bb892e7d5e271cc9, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 1563019090911296243, guid: e6762a65b929e4c4bb892e7d5e271cc9, type: 3}
       propertyPath: m_AnchorMax.x
@@ -245,7 +245,7 @@ PrefabInstance:
       objectReference: {fileID: 9100000, guid: 0cdc806d5ef56644fb6a66d1e175bcd6, type: 2}
     - target: {fileID: 1600005355191719046, guid: 93be90615bdbcbb46babef7074885002, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1600005355191719046, guid: 93be90615bdbcbb46babef7074885002, type: 3}
       propertyPath: m_LocalPosition.x
@@ -453,7 +453,6 @@ MonoBehaviour:
       name: Girl
       sentences:
       - Kim Kardashian
-      - Shakira
       - Rosalia
       - Carmen Farala
       isChoice: 1
@@ -495,7 +494,7 @@ MonoBehaviour:
       draggable: 1
       expandable: 1
       multipleSelection: 1
-      isExpanded: 0
+      isExpanded: 1
       label:
         m_Text: Keys
         m_Image: {fileID: 0}
@@ -510,7 +509,7 @@ MonoBehaviour:
       elementNameOverride: 
       elementIcon: {fileID: 0}
     reqReferences: {fileID: 0}
-    isExpanded: 0
+    isExpanded: 1
     _keyValues:
     - Kim Kardashian
     - Shakira
@@ -708,17 +707,17 @@ MonoBehaviour:
         sentences:
         - Everyone knows the queen is Carmen Farala!
         isChoice: 0
-      - icon: {fileID: 21300000, guid: 036a00ee4c7630249b0c881cd7a5b03b, type: 3}
+      - icon: {fileID: 21300000, guid: 46f0786cc40de0d429ed2ef810145f0e, type: 3}
         name: Teacher
         sentences:
         - YASS BESTIEEEEEE
         isChoice: 0
-      - icon: {fileID: 21300000, guid: 036a00ee4c7630249b0c881cd7a5b03b, type: 3}
+      - icon: {fileID: 21300000, guid: 46f0786cc40de0d429ed2ef810145f0e, type: 3}
         name: Teacher
         sentences:
         - '*COF COF* I mean emm yeah I suppose you are right *cof*'
         isChoice: 0
-      - icon: {fileID: 21300000, guid: aeaef42e804df274b826d8df34aea90e, type: 3}
+      - icon: {fileID: 21300000, guid: 46f0786cc40de0d429ed2ef810145f0e, type: 3}
         name: Girl
         sentences:
         - I don't even know how I made that work out
@@ -984,7 +983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8615311620034901595, guid: 460239b4cc7c5b8458498cfc4e2b4825, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8615311620034901595, guid: 460239b4cc7c5b8458498cfc4e2b4825, type: 3}
       propertyPath: m_AnchorMax.x

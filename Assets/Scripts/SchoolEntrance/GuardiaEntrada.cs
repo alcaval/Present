@@ -8,8 +8,16 @@ public class GuardiaEntrada : MonoBehaviour
 
     [SerializeField] private Animator transition;
 
+    [SerializeField] private PlayerDialogueInteraction interaction;
+
+    private void Start() 
+    {
+        interaction.enabled = true;
+    }
+
     public void CambiarMetalGear()
     {
+        interaction.enabled = false;
         StartCoroutine(LoadNextScene());
     }
 
